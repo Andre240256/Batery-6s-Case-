@@ -15,6 +15,7 @@ Este projeto contém os ficheiros de modelagem 3D para um case de proteção par
 ##  Especificações
 
 * **Compatibilidade:** Baterias LiPo 6S com dimensões aproximadas de 137x43x63 mm.
+* **Frame**: Feito para ser encaixado na parte inferior do frame X500 V2 da HOLYBRO
 
 ## Ficheiros Incluídos
 
